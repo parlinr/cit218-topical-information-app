@@ -1,11 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<!-- 
-TODO:
--Need to develop a schema(?)
--Need to come up with a topic
-    -DFS again?
-    -Deep learning concepts/frameworks?
--->
-<body>
-  
-</body>
+
+<books>
+<book>
+<title>Deep Learning</title>
+<author>Ian Goodfellow</author>
+<author>Yoshua Bengio</author>
+<author>Aaron Courville</author>
+<publicationYear>2016</publicationYear>
+<summary>A comprehensive summary of the concepts essential to 
+deep learning. This book starts with a review of the math needed to build
+neural networks (linear algebra, probability, gradient descent) then proceeds to
+discuss fundamental concepts in deep learning such as convolution, regularization, 
+and recurrent nets. The book ends with a discussion of current research topics in 
+the field.
+</summary>
+</book>
+
+<book>
+  <title>Deep Learning with Python</title>
+  <author>Nikhil Ketkar</author>
+  <publicationYear>2017</publicationYear>
+  <summary>This is a guide to using the machine learning libraries in Python 
+(namely Theano and Keras) to implement feed forward, convolutional, and recurrent
+neural networks</summary>
+</book>
+
+  <book>
+    <title>Practical Machine Learning with Python</title>
+    <author>Dipanjan Sarkar</author>
+    <author>Raghav Bali</author>
+    <author>Tushar Sharma</author>
+    <publicationYear>2018</publicationYear>
+    <summary>This book is a more holistic coverage of machine learning. The book starts by covering the CRISP-DM model, a framework 
+for building machine learning systems. The authors then cover methods for conditioning data so the best results may be 
+obtained. For the rest of the book, the authors use case studies to introduce various topics in machine learning.</summary>
+  </book>
+
+  <book>
+    <title>Understanding Machine Learning: From Theory to Algorithms</title>
+    <author>Shai Shalev-Shwartz</author>
+    <author>Shai Ben-David</author>
+    <publicationYear>2014</publicationYear>
+    <summary></summary>
+  </book>
+
+  <book>
+    <title>Hands-On Machine Learning with Scikit-Learn and TensorFlow</title>
+    <author>Aurelien Geron</author>
+    <publicationYear>2017</publicationYear>
+    <summary></summary>
+  </book>
+
+  <book>
+    <title>Introduction to Machine Learning with Python</title>
+    <author>Andreas C. Muller</author>
+    <author>Sara Guido</author>
+    <publicationYear>2016</publicationYear>
+    <summary></summary>
+  </book>
+
+  <book>
+    <title>All of Statistics: A Concise Course in Statistical Inference</title>
+    <author>Larry Wasserman</author>
+    <publicationYear>2010</publicationYear>
+    <summary></summary>
+  </book>
+
+  <book>
+    <title>Foundations of Machine Learning</title>
+    <author>Mehryar Mohri</author>
+    <author>Afshin Rostamizadeh</author>
+    <author>Ameet Talwalkar</author>
+    <publicationYear>2012</publicationYear>
+    <summary></summary>
+  </book>
+
+  <book>
+    <title>Data Science from Scratch</title>
+    <author>Joel Grus</author>
+    <publicationYear>2015</publicationYear>
+    <summary></summary>
+  </book>
+
+  <book>
+    <title>bayesian Reasoning and Machine Learning</title>
+    <author>David Barber</author>
+    <publicationYear>2012</publicationYear>
+    <summary></summary>
+  </book>
+</books>
